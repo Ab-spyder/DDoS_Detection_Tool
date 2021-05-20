@@ -1,5 +1,5 @@
 # Security Monitoring Tool to detect DDoS attacks
-## Spring 2020
+## Spring 2019
 This is a simple Python-based tool to detect Distributed Denial of Service (DDoS) attacks from a PCAP file.
 
 The tool will parse a PCAP file to provide details of the traffic captured. PCAP files are generated
